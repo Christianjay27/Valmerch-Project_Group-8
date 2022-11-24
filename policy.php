@@ -53,8 +53,8 @@
         <?php
           include 'navbar.php';
         ?>
-
-<div class="container log mx-5 p-3 rounded imglog1">
+<center>
+<div class="container log mx-5 p-3 rounded imglog7">
   <h1>Cancellation and Refund Policies</h1>
   <p>The Valmerch is committed to ensuring that the personal information of individuals is handled responsibly and in accordance with Australian Commonwealth privacy laws. This Privacy Policy may be amended from time to time. If you have any concerns regarding privacy, please contact us here.</p>
   <p>Online Purchasing Customers' personal Credit Card information, gathered whilst in the process of conducting an online purchase, will be used only for Credit Card authorisation purposes. This information will be shared with our Payment Processing Authority, only in the context of purchasing Merchandise &/or Products.</p>
