@@ -52,7 +52,7 @@
         <?php
           include 'navbar.php'
         ?>
-			  <div class="FAQss fade_body imgLog1">
+			  <div class="FAQss fade_body imgLog7">
 		<ul id="basics" class="faq_group">
 		 <h1>Frequently Asked Questions</h1>
 			<h3>TOPIC</h3>
