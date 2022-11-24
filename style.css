@@ -94,6 +94,13 @@ filter: drop-shadow(10px 10px 0.75rem rgb(255, 0, 0));
 font-size:60px;
 font-weight: bold;
 }
+
+.imglog7{
+  
+  filter: drop-shadow(10px 10px 0.75rem rgb(0, 0, 0));
+  font-size:15px;
+  font-weight: bold;
+  }
 .imglog1but{
   filter: drop-shadow(10px 10px 0.75rem rgb(243, 3, 3));
   font-size:20px;
