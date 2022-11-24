@@ -61,7 +61,7 @@
 			  
 			  <div class="container-fluid mb-4">
             <div class="row">
-              <div class="col-6 imglog1 shadow ml-5 rounded-left log py-2">
+              <div class="col-6 imglog7 shadow ml-5 rounded-left log py-2">
               <form>
               <input type="radio" name="paymentselect" onClick="hideB()">Credit Card&ensp;&ensp;
               <input type="radio" name="paymentselect" onClick="hideA()" checked>BJ Coins
