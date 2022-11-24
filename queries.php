@@ -56,7 +56,7 @@
           include 'navbar.php';
         ?>
 			  
-				<div class="col-5 log p-3 mx-auto imgLog1 rounded"><h1>Queries</h1>
+				<div class="col-5 log p-3 mx-auto imgLog7 rounded"><h1>Queries</h1>
           <form name="formQuery" method="POST">
           <div class="form-group form-signin">
             <label for="emailLogin">Email address</label>
