@@ -20,10 +20,10 @@
 	}
 
 ?>
-
+<br><br>
 <form method="post" action="">
-	<div class="container col-6">
-        <div class="fade_caro imglog1 rounded">
+	<div class="container col-4">
+        <div class="fade_caro imglog7 rounded">
             <div class="title  card-header">
              <i class="fas fa-edit"></i>
                 EDIT
